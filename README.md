@@ -26,7 +26,7 @@
 <a href="https://twitter.com/arturfilio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arturfilio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arturofiliovilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturofiliovilla" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8942132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8942132" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arturfil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arturfil" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXdMHIyfxUt509vEQkw4bFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arturfil" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arturofilio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arturofilio" height="30" width="40" /></a>
 </p>
 
