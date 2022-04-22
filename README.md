@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Rust**
 
-- 👨‍💻 All of my projects are available at [arturofilio.com](arturofilio.com)
+- 👨‍💻 All of my projects are available at http://arturofilio.com
 
 - 📝 Find me on youtube at [arturofilio.https://www.youtube.com/channel/UCXdMHIyfxUt509vEQkw4bFQ](arturofilio.https://www.youtube.com/channel/UCXdMHIyfxUt509vEQkw4bFQ)
 
