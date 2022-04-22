@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arturo Filio</h1>
-<h3 align="center">I'm a Software Engineer From Mexico City</h3>
+<h3 align="center">I'm a Software Engineer From Mexico City but reside in Miami</h3>
 <div align="center">
   <img src="https://github.com/arturfil/arturfil/blob/main/san_miguel.jpg"/>
 </div>
