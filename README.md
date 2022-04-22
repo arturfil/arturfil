@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Filio</h1>
 <h3 align="center">I'm a Software Engineer From Mexico City</h3>
 <div align="center">
-  <img src="![san_miguel](https://user-images.githubusercontent.com/25439730/164792675-4d3372f0-526f-4014-a010-5c0935180c86.jpg)"/>
+  ![san_miguel](https://user-images.githubusercontent.com/25439730/164792675-4d3372f0-526f-4014-a010-5c0935180c86.jpg)
 </div>
 
 <p align="center"> <a href="https://twitter.com/arturfilio" target="blank"><img src="https://img.shields.io/twitter/follow/arturfilio?logo=twitter&style=for-the-badge" alt="arturfilio" /></a> </p>
