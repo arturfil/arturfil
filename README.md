@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Filio</h1>
 <h3 align="center">I'm a Software Engineer From Mexico City</h3>
 
-<img style="border-radius: 15px; text-align: center; margin: 0 auto" src="https://usebounce.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fbounce%2Faf3fc8f8-7414-4522-bb31-775fff27e24a_hasmik-ghazaryan-olson-Vee5rsEDLgs-unsplash.jpg%3Fauto%3Dcompress%2Cformat%26h%3D400%26fit%3Dmax%26q%3D75&w=1600&q=75"/>
+<img style="border-radius: 15px; display: flex; justify-content: center; text-align: center; margin: 0 auto" src="https://usebounce.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fbounce%2Faf3fc8f8-7414-4522-bb31-775fff27e24a_hasmik-ghazaryan-olson-Vee5rsEDLgs-unsplash.jpg%3Fauto%3Dcompress%2Cformat%26h%3D400%26fit%3Dmax%26q%3D75&w=1600&q=75"/>
 
 <p align="left"> <a href="https://twitter.com/arturfilio" target="blank"><img src="https://img.shields.io/twitter/follow/arturfilio?logo=twitter&style=for-the-badge" alt="arturfilio" /></a> </p>
 
