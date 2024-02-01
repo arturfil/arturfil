@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/arturofiliov" target="blank"><img src="https://img.shields.io/twitter/follow/arturfiliov?logo=twitter&style=for-the-badge" alt="arturfilio" /></a> </p>
 
-- 🔭 I’m currently working am freelancing and I'm looking for a **New Job Opportunity**
+- 🔭 I’m currently working and freelancing and I'm looking for a **New Job Opportunity**
 
 - 🌱 I’m currently learning **Golang, Solidity and Kubernetes**
 
