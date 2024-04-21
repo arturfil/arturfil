@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at http://arturofilio.com
 
-- 📝 Find me on youtube at [arturofilio.https://www.youtube.com/channel/UCXdMHIyfxUt509vEQkw4bFQ](arturofilio.https://www.youtube.com/channel/UCXdMHIyfxUt509vEQkw4bFQ)
+- 📝 Find me on youtube at https://www.youtube.com/@arturfil
 
 - 💬 Ask me about **GO, AWS, React, Node, C#**
 
