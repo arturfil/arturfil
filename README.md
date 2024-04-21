@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 🤝 I’m looking for help with **Rust**
+- 🤝 I’m looking for help with **Kubernets & DevOps in general**
 
 - 👨‍💻 All of my projects are available at http://arturofilio.com
 
