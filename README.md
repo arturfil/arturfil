@@ -5,9 +5,9 @@
   <img src="https://github.com/arturfil/arturfil/blob/main/bellas_artes_wallpaper.jpeg"/>
 </div>
 
-- 🔭 I’m currently working and freelancing and I'm looking for a **New Job Opportunity**
+- 🔭 I’m currently working at RBI
 
-- 🌱 I’m currently learning **Golang, Solidity and Kubernetes**
+- 🌱 I’m currently learning and improving my DevOps and CI/CD skills specifically
 
 - 👯 I’m looking to collaborate on **any project**
 
@@ -17,7 +17,7 @@
 
 - 📝 Find me on youtube at [arturofilio.https://www.youtube.com/channel/UCXdMHIyfxUt509vEQkw4bFQ](arturofilio.https://www.youtube.com/channel/UCXdMHIyfxUt509vEQkw4bFQ)
 
-- 💬 Ask me about **React, Node, C#**
+- 💬 Ask me about **GO, AWS, React, Node, C#**
 
 - 📫 How to reach me **filioarturo@gmail.com**
 
