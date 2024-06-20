@@ -5,7 +5,7 @@
   <img src="https://github.com/arturfil/arturfil/blob/main/bellas_artes_wallpaper.jpeg"/>
 </div>
 
-- 🔭 I’m currently working at RBI
+- 🔭 I’m currently looking for a backend/full-stack position
 
 - 🌱 I’m currently learning and improving my DevOps and CI/CD skills specifically
 
