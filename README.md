@@ -5,7 +5,7 @@
   <img src="https://github.com/arturfil/arturfil/blob/main/bellas_artes_wallpaper.jpeg"/>
 </div>
 
-- 🔭 I’m currently Working at Dogwood Logic as a Fullstack Software Engineer
+- 🔭 I’m currently Working at Protocoding as a Fullstack Software Engineer
 
 - 🌱 I’m currently learning and improving my DevOps and CI/CD skills specifically
 
